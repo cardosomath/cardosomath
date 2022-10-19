@@ -1,9 +1,9 @@
-## :blossom: Oi, eu sou o Matheus!
+## :raising_hand_man: Oi, eu sou o Matheus!
 
 <ul>
-<li> :birthday: Tenho 28 anos</li>
-<li> :boom: Aprendendo javascript</li>
-<li> :revolving_hearts: Cursando Programação pelo Programadores Cariocas</li>
+<li> :spiral_calendar: Tenho 28 anos</li>
+<li> :writing_hand: Estou aprendendo HTML, CSS e JavaScript</li>
+<li> :computer: Cursando Programação pelo Programadores Cariocas</li>
 </ul>
 <div align="center">
   <a href="https://github.com/cardosomath">
