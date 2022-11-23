@@ -3,7 +3,7 @@
 <ul>
 <li> :spiral_calendar: Tenho 28 anos</li>
 <li> :writing_hand: Estou aprendendo HTML, CSS e JavaScript</li>
-<li> :computer: Cursando Programação pelo Programadores Cariocas</li>
+<li> :computer: Aluno dos projetos de desenvolvimento web Programadores Cariocas e Oracle Next Education</li>
 </ul>
 <div align="center">
   <a href="https://github.com/cardosomath">
